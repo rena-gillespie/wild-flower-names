@@ -1,0 +1,13 @@
+
+
+body {
+
+:root{
+--light-yellow: #ebeb5c;
+--darker-yellow: #e6bc34;
+--dark-green: #0a570a;
+}
+body {
+background: var(--light-yellow)
+}
+}
